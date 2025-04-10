@@ -1,0 +1,20 @@
+# Output folders
+results/
+inference_results/
+datasets/
+*.pt
+*.jpg
+*.png
+
+# Cache files
+*.cache
+__pycache__/
+*.pyc
+
+# Virtual env
+.env
+.venv
+
+# IDE stuff
+.vscode/
+.idea/
